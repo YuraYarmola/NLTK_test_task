@@ -13,7 +13,7 @@ This project provides a set of API endpoints for natural language processing tas
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/YuraYarmola/NLTK_test_task.git
-    cd language-processing-api
+    cd NLTK_test_task
     ```
 
 2. **Create and activate a virtual environment**:
